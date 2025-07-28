@@ -8,7 +8,7 @@ python -m spacy download en_core_web_sm
 
 ## Usage
 ```bash
-python text_processing_system.py
+python process_script.py
 ```
 
 ## What it does
